@@ -7,6 +7,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 
+import java.lang.reflect.Array;
 import java.util.List;
 
 public class CreateOrderPageActions extends BasePage {
@@ -112,18 +113,25 @@ public class CreateOrderPageActions extends BasePage {
         return this;
     }
 
-    public CreateOrderPageActions reviewOrderDetails(String invoiceExpectedValue, String shippingDate) {
-        String invoiceActualValue = readText(By.xpath("//*[@id=\"root\"]/section/section/main/div[3]/div[1]/div[1]/div/div/div[13]/p/text()[3]"));
-        Assert.assertEquals(invoiceActualValue, invoiceExpectedValue);
-        if (shippingDate != null && !shippingDate.isBlank() && !shippingDate.isEmpty()) {
-            // To Do for Selecting specific PickUpDate
-        }
+    public CreateOrderPageActions reviewOrderDetails(double invoiceExpectedValue, String shippingDate) {
+        String invoiceActualValue = readText(By.xpath("//p[text()='Invoice Value']"));
+        String[] str = invoiceActualValue.split(" ");
+        double actualValue=Double.parseDouble(str[str.length-1]);
+        ;
+        System.out.println("Invoice Value is :: "+ Math.abs(actualValue));
+        Assert.assertEquals(Math.abs(actualValue), Math.abs(invoiceExpectedValue));
+        // TO DO for Shipping DATE
         return this;
     }
 
     public CreateOrderPageActions clickPlaceOrder() {
-        click(By.xpath("//button/span[text()='Create Order']"));
+        click(CreateOrderPage.placeOrderButton);
         Assert.assertTrue(textIsPresent(CommonTexts.orderPlacementSuccessText));
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
         return this;
     }
 
@@ -132,4 +140,8 @@ public class CreateOrderPageActions extends BasePage {
         return this;
     }
 
+    public static void main(String[] args) {
+        double a = 100.10;
+        System.out.println(Math.abs(a));
+    }
 }

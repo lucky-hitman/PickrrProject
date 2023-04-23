@@ -49,7 +49,7 @@ public class CreateOrderPageTests extends BaseTest implements CommonTexts {
                 .enterItemDetails("Item1",1)
                 .addCompleteOrderDetails(1.1, Arrays.asList(1.1,1.1,1.1),100.10,"","auto"+ TestUtils.generateRandomNumber())
                 .selectNext()
-                .reviewOrderDetails("100.10",null)
+                .reviewOrderDetails(100.10,null)
                 .clickPlaceOrder();
     }
 
