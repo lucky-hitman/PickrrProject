@@ -19,6 +19,7 @@ public class CreateOrderPage {
     public static By boxHeight = By.id("item_height");
     public static By invoiceValue = By.id("invoice_value");
     public static By clientOrderID = By.id("client_order_id");
+    public static By placeOrderButton = By.xpath("//button/span[text()='Create Order']");
 
 
 }
