@@ -44,7 +44,7 @@
 		<!-- nav-right -->
 		<ul id='nav-mobile' class='right hide-on-med-and-down nav-right'>
 			<a href='#!'>
-			<span class='label blue darken-3 suite-start-time'>Apr 24, 2023 12:58:14 AM</span>
+			<span class='label blue darken-3 suite-start-time'>Apr 24, 2023 02:11:42 PM</span>
 			</a>
 		</ul>
 	</div>
@@ -60,6 +60,7 @@
 				</a>
 				<ul id='tests-toggle' class='dropdown-content'>
 										<li status='pass'><a href='#!'>Pass <i class='material-icons green-text'>check_circle</i></a></li>
+					<li status='fail'><a href='#!'>Fail <i class='material-icons red-text'>cancel</i></a></li>
 					<li class='divider'></li>
 					<li status='clear' clear='true'><a href='#!'>Clear Filters <i class='material-icons'>clear</i></a></li>
 				</ul>
@@ -102,10 +103,10 @@
                     <canvas id='parent-analysis' width='90' height='70'></canvas>
                 </div>
                 <div class='block text-small'>
-                    <span class='tooltipped' data-position='top' data-tooltip='100%'><span class='strong'>1</span> test(s) passed</span>
+                    <span class='tooltipped' data-position='top' data-tooltip='50%'><span class='strong'>2</span> test(s) passed</span>
                 </div>
                 <div class='block text-small'>
-                    <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> test(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> others
+                    <span class='strong tooltipped' data-position='top' data-tooltip='50%'>2</span> test(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> others
                 </div>
             </div>
         </div>
@@ -116,10 +117,10 @@
                     <canvas id='child-analysis' width='90' height='70'></canvas>
                 </div>
                 <div class='block text-small'>
-                    <span class='tooltipped' data-position='top' data-tooltip='100%'><span class='strong'>1</span> step(s) passed</span>
+                    <span class='tooltipped' data-position='top' data-tooltip='60%'><span class='strong'>3</span> step(s) passed</span>
                 </div>
                 <div class='block text-small'>
-                    <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> step(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> others
+                    <span class='strong tooltipped' data-position='top' data-tooltip='40%'>2</span> step(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> others
                 </div>
             </div>
         </div>
@@ -140,22 +141,22 @@
 				<li class='test displayed active has-leaf pass' status='pass' bdd='false' test-id='1'>
 					<div class='test-heading'>
 						<span class='test-name'>CreateOrderPageTests</span>
-						<span class='test-time'>Apr 24, 2023 12:58:14 AM</span>
+						<span class='test-time'>Apr 24, 2023 02:11:42 PM</span>
 						<span class='test-status right pass'>pass</span>
 					</div>
 					<div class='test-content hide'>
 <div class='test-time-info'>
-	<span class='label start-time'>Apr 24, 2023 12:58:14 AM</span>
-	<span class='label end-time'>Apr 24, 2023 12:58:42 AM</span>
-	<span class='label time-taken grey lighten-1 white-text'>0h 0m 28s+328ms</span>
+	<span class='label start-time'>Apr 24, 2023 02:11:42 PM</span>
+	<span class='label end-time'>Apr 24, 2023 02:12:17 PM</span>
+	<span class='label time-taken grey lighten-1 white-text'>0h 0m 35s+90ms</span>
 </div>
 <div class='test-desc'>CreateOrderPageTests </div>
 <ul class='collapsible node-list' data-collapsible='accordion'>
 	<li class='node level-1 leaf pass' status='pass' test-id='2'>
 		<div class='collapsible-header'>
 			<div class='node-name'>createSingleOrder</div>
-			<span class='node-time'>Apr 24, 2023 12:58:14 AM</span>
-			&middot; <span class='node-duration'>0h 0m 28s+328ms</span>
+			<span class='node-time'>Apr 24, 2023 02:11:42 PM</span>
+			&middot; <span class='node-duration'>0h 0m 35s+90ms</span>
 			<span class='test-status right pass'>pass</span>
 		</div>
 		<div class='collapsible-body'>
@@ -171,9 +172,197 @@
 					<tbody>
 						<tr class='log' status='pass'>
 							<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-							<td class='timestamp'>12:58:42 AM</td>
+							<td class='timestamp'>2:12:17 PM</td>
 							<td class='step-details'>
 									<b><font face="Courier New" color = "green">createSingleOrder test execution passed</font></b>
+								
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</li>
+</ul>
+					</div>
+				</li>
+				<li class='test displayed active has-leaf pass' status='pass' bdd='false' test-id='3'>
+					<div class='test-heading'>
+						<span class='test-name'>LoginPageTests</span>
+						<span class='test-time'>Apr 24, 2023 02:12:20 PM</span>
+						<span class='test-status right pass'>pass</span>
+					</div>
+					<div class='test-content hide'>
+<div class='test-time-info'>
+	<span class='label start-time'>Apr 24, 2023 02:12:20 PM</span>
+	<span class='label end-time'>Apr 24, 2023 02:12:24 PM</span>
+	<span class='label time-taken grey lighten-1 white-text'>0h 0m 3s+811ms</span>
+</div>
+<div class='test-desc'>LoginPageTests </div>
+<ul class='collapsible node-list' data-collapsible='accordion'>
+	<li class='node level-1 leaf pass' status='pass' test-id='4'>
+		<div class='collapsible-header'>
+			<div class='node-name'>verifyLoginPickrr</div>
+			<span class='node-time'>Apr 24, 2023 02:12:20 PM</span>
+			&middot; <span class='node-duration'>0h 0m 3s+811ms</span>
+			<span class='test-status right pass'>pass</span>
+		</div>
+		<div class='collapsible-body'>
+			<div class='node-steps'>
+				<table class='bordered table-results'>
+					<thead>
+						<tr>
+							<th>Status</th>
+							<th>Timestamp</th>
+							<th>Details</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr class='log' status='pass'>
+							<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+							<td class='timestamp'>2:12:24 PM</td>
+							<td class='step-details'>
+									<b><font face="Courier New" color = "green">verifyLoginPickrr test execution passed</font></b>
+								
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</li>
+</ul>
+					</div>
+				</li>
+				<li class='test displayed active has-leaf fail' status='fail' bdd='false' test-id='5'>
+					<div class='test-heading'>
+						<span class='test-name'>SignUpPageTests</span>
+						<span class='test-time'>Apr 24, 2023 02:12:25 PM</span>
+						<span class='test-status right fail'>fail</span>
+					</div>
+					<div class='test-content hide'>
+<div class='test-time-info'>
+	<span class='label start-time'>Apr 24, 2023 02:12:25 PM</span>
+	<span class='label end-time'>Apr 24, 2023 02:12:45 PM</span>
+	<span class='label time-taken grey lighten-1 white-text'>0h 0m 20s+452ms</span>
+</div>
+<div class='test-desc'>SignUpPageTests </div>
+<ul class='collapsible node-list' data-collapsible='accordion'>
+	<li class='node level-1 leaf pass' status='pass' test-id='6'>
+		<div class='collapsible-header'>
+			<div class='node-name'>verifyUserSignUpForFree</div>
+			<span class='node-time'>Apr 24, 2023 02:12:25 PM</span>
+			&middot; <span class='node-duration'>0h 0m 11s+980ms</span>
+			<span class='test-status right pass'>pass</span>
+		</div>
+		<div class='collapsible-body'>
+			<div class='node-steps'>
+				<table class='bordered table-results'>
+					<thead>
+						<tr>
+							<th>Status</th>
+							<th>Timestamp</th>
+							<th>Details</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr class='log' status='pass'>
+							<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+							<td class='timestamp'>2:12:37 PM</td>
+							<td class='step-details'>
+									<b><font face="Courier New" color = "green">verifyUserSignUpForFree test execution passed</font></b>
+								
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</li>
+	<li class='node level-1 leaf fail' status='fail' test-id='7'>
+		<div class='collapsible-header'>
+			<div class='node-name'>verifyMobile</div>
+			<span class='node-time'>Apr 24, 2023 02:12:37 PM</span>
+			&middot; <span class='node-duration'>0h 0m 8s+448ms</span>
+			<span class='test-status right fail'>fail</span>
+		</div>
+		<div class='collapsible-body'>
+			<div class='node-steps'>
+				<table class='bordered table-results'>
+					<thead>
+						<tr>
+							<th>Status</th>
+							<th>Timestamp</th>
+							<th>Details</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr class='log' status='fail'>
+							<td class='status fail' title='fail' alt='fail'><i class='material-icons'>cancel</i></td>
+							<td class='timestamp'>2:12:45 PM</td>
+							<td class='step-details'>
+									<b><font face="Courier New" color = "red">verifyMobile test execution failed org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button _ngcontent-hog-c56="" type="submit" class="mt-4 btn btn-bg-blue col-md-12 fs-14px text-light SFProDisplay-Semibold rounded-10px" style="height: 36px;" disabled="">...</button> is not clickable at point (1144, 435). Other element would receive the click: <div _ngcontent-hog-c16="" class="ngx-overlay foreground-closing" style="background-color: rgba(0, 0, 0, 0.5); border-radius: 0px;">...</div>
+  (Session info: chrome=108.0.5359.98)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'PoojaBalhara-MacBook-Pro.local', ip: 'fe80:0:0:0:14dc:2fe6:45d1:21d7%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.3.1', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d241b4c3d6b062776999188a91cee69, clickElement {id=ed52dd0c-8f3f-495b-9d55-b3a4bcc42697}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.98, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: /var/folders/hp/c1lg7pt953l...}, goog:chromeOptions: {debuggerAddress: localhost:60749}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:60749/devtoo..., se:cdpVersion: 108.0.5359.98, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on MAC (1d241b4c3d6b062776999188a91cee69)] -> xpath: //button[@type='submit']]
+Session ID: 1d241b4c3d6b062776999188a91cee69</font></b>
+								
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</li>
+</ul>
+					</div>
+				</li>
+				<li class='test displayed active has-leaf fail' status='fail' bdd='false' test-id='8'>
+					<div class='test-heading'>
+						<span class='test-name'>HomePageTests</span>
+						<span class='test-time'>Apr 24, 2023 02:12:45 PM</span>
+						<span class='test-status right fail'>fail</span>
+					</div>
+					<div class='test-content hide'>
+<div class='test-time-info'>
+	<span class='label start-time'>Apr 24, 2023 02:12:45 PM</span>
+	<span class='label end-time'>Apr 24, 2023 02:13:06 PM</span>
+	<span class='label time-taken grey lighten-1 white-text'>0h 0m 20s+874ms</span>
+</div>
+<div class='test-desc'>HomePageTests </div>
+<ul class='collapsible node-list' data-collapsible='accordion'>
+	<li class='node level-1 leaf fail' status='fail' test-id='9'>
+		<div class='collapsible-header'>
+			<div class='node-name'>verifyNavigationToCreateOrderPage</div>
+			<span class='node-time'>Apr 24, 2023 02:12:45 PM</span>
+			&middot; <span class='node-duration'>0h 0m 20s+874ms</span>
+			<span class='test-status right fail'>fail</span>
+		</div>
+		<div class='collapsible-body'>
+			<div class='node-steps'>
+				<table class='bordered table-results'>
+					<thead>
+						<tr>
+							<th>Status</th>
+							<th>Timestamp</th>
+							<th>Details</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr class='log' status='fail'>
+							<td class='status fail' title='fail' alt='fail'><i class='material-icons'>cancel</i></td>
+							<td class='timestamp'>2:13:06 PM</td>
+							<td class='step-details'>
+									<b><font face="Courier New" color = "red">verifyNavigationToCreateOrderPage test execution failed org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //img[@alt='Create Order plus icon'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'PoojaBalhara-MacBook-Pro.local', ip: 'fe80:0:0:0:14dc:2fe6:45d1:21d7%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.3.1', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.98, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: /var/folders/hp/c1lg7pt953l...}, goog:chromeOptions: {debuggerAddress: localhost:60870}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:60870/devtoo..., se:cdpVersion: 108.0.5359.98, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d72b87855857aedbebe9954774babaf7</font></b>
 								
 							</td>
 						</tr>
@@ -213,31 +402,31 @@
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Tests
-					<div class='panel-lead'>1</div>
+					<div class='panel-lead'>4</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Steps
-					<div class='panel-lead'>1</div>
+					<div class='panel-lead'>5</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Start
-					<div class='panel-lead'>Apr 24, 2023 12:58:14 AM</div>
+					<div class='panel-lead'>Apr 24, 2023 02:11:42 PM</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 			 		End
-			 		<div class='panel-lead'>Apr 24, 2023 12:58:42 AM</div>
+			 		<div class='panel-lead'>Apr 24, 2023 02:13:11 PM</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Time Taken
-					<div class='panel-lead'>0h 0m 28s+557ms</div>
+					<div class='panel-lead'>0h 1m 28s+907ms</div>
 				</div>
 			</div>
 		</div>
@@ -248,24 +437,24 @@
 		<!-- container -->
 		<script>
 			var statusGroup = {
-                parentCount: 1,
-				passParent: 1,
-				failParent: 0,
+                parentCount: 4,
+				passParent: 2,
+				failParent: 2,
 				fatalParent: 0,
 				errorParent: 0,
 				warningParent: 0,
 				skipParent: 0,
-				exceptionsParent: 0,
-				childCount: 1,
-				passChild: 1,
-				failChild: 0,
+				exceptionsParent: 2,
+				childCount: 5,
+				passChild: 3,
+				failChild: 2,
 				fatalChild: 0,
 				errorChild: 0,
 				warningChild: 0,
 				skipChild: 0,
 				infoChild: 0,
 				debugChild: 0,
-				exceptionsChild: 0,
+				exceptionsChild: 2,
 				grandChildCount: 0,
 				passGrandChild: 0,
 				failGrandChild: 0,
@@ -280,7 +469,7 @@
 		</script>
 		<script>
 			var timeline = {
-			        "CreateOrderPageTests":28.328
+			        "CreateOrderPageTests":35.09,"LoginPageTests":3.811,"SignUpPageTests":20.452,"HomePageTests":20.874
 			};
 		</script>
 		<script src='https://cdn.rawgit.com/extent-framework/extent-github-cdn/b65cd69/v3html/js/extent.js' type='text/javascript'></script>

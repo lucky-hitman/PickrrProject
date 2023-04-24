@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Surefire suite]" verbose="0">
+  <test thread-count="5" name="Surefire test(failed)" verbose="0">
+    <classes>
+      <class name="Tests.SignUpPageTests">
+        <methods>
+          <include name="beforeMethodTest"/>
+          <include name="stopTestExecution"/>
+          <include name="verifyMobile"/>
+          <include name="initReport"/>
+          <include name="beforeClassTest"/>
+          <include name="init"/>
+          <include name="tearDown"/>
+          <include name="startBeforeSuiteExecution"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- Tests.SignUpPageTests -->
+      <class name="Tests.HomePageTests">
+        <methods>
+          <include name="beforeMethodTest"/>
+          <include name="stopTestExecution"/>
+          <include name="initReport"/>
+          <include name="beforeClassTest"/>
+          <include name="init"/>
+          <include name="verifyNavigationToCreateOrderPage"/>
+          <include name="tearDown"/>
+          <include name="startBeforeSuiteExecution"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- Tests.HomePageTests -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->
