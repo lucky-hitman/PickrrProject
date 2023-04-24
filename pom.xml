@@ -7,7 +7,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>FreeCRMTest</name>
+    <name>PickrrProject</name>
     <url>http://maven.apache.org</url>
 
     <properties>
@@ -18,30 +18,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-java</artifactId>
-            <version>3.14.0</version>
-        </dependency>
-
-        <dependency>
-            <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <version>6.11</version>
-            <scope>compile</scope>
-        </dependency>
-
-
-        <!--		<dependency>-->
-        <!--			<groupId>org.apache.poi</groupId>-->
-        <!--			<artifactId>poi</artifactId>-->
-        <!--			<version>3.16-beta2</version>-->
-        <!--		</dependency>-->
-
-
-        <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-ooxml</artifactId>
-            <version>3.9</version>
+            <version>4.1.1</version>
         </dependency>
         <dependency>
             <groupId>org.apache.poi</groupId>
@@ -51,7 +30,7 @@
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-scratchpad</artifactId>
-            <version>3.9</version>
+            <version>5.2.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.poi</groupId>
@@ -67,7 +46,7 @@
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi</artifactId>
-            <version>3.9</version>
+            <version>3.17</version>
         </dependency>
 
 
@@ -82,7 +61,7 @@
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>2.6</version>
+            <version>2.7</version>
         </dependency>
 
         <dependency>
@@ -100,23 +79,6 @@
             <artifactId>guava</artifactId>
             <version>31.0.1-jre</version>
         </dependency>
-        <!--        <dependency>-->
-        <!--            <groupId>com.google.api-client</groupId>-->
-        <!--            <artifactId>google-api-client</artifactId>-->
-        <!--            <version>2.2.0</version>-->
-        <!--        </dependency>-->
-
-        <!--        <dependency>-->
-        <!--            <groupId>com.google.oauth-client</groupId>-->
-        <!--            <artifactId>google-oauth-client-jetty</artifactId>-->
-        <!--            <version>1.34.1</version>-->
-        <!--        </dependency>-->
-        <!--        <dependency>-->
-        <!--            <groupId>com.google.apis</groupId>-->
-        <!--            <artifactId>google-api-services-sheets</artifactId>-->
-        <!--            <version>v4-rev614-1.18.0-rc</version>-->
-        <!--        </dependency>-->
-
         <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
         <dependency>
             <groupId>com.aventstack</groupId>
@@ -130,20 +92,17 @@
             <artifactId>selenium-api</artifactId>
             <version>4.4.0</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.testng/testng -->
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <version>7.7.1</version>
+            <scope>compile</scope>
         </dependency>
-
-        <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
         <dependency>
             <groupId>io.github.bonigarcia</groupId>
             <artifactId>webdrivermanager</artifactId>
             <version>5.3.2</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
         <dependency>
             <groupId>io.rest-assured</groupId>
             <artifactId>rest-assured</artifactId>
@@ -157,13 +116,6 @@
             <artifactId>json</artifactId>
             <version>20220924</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/com.google.api-client/google-api-client -->
-        <!--        <dependency>-->
-        <!--            <groupId>com.google.api-client</groupId>-->
-        <!--            <artifactId>google-api-client</artifactId>-->
-        <!--            <version>2.2.0</version>-->
-        <!--        </dependency>-->
-        <!-- https://mvnrepository.com/artifact/com.google.api-client/google-api-client-jackson2 -->
         <dependency>
             <groupId>com.google.api-client</groupId>
             <artifactId>google-api-client-jackson2</artifactId>
