@@ -1,4 +1,4 @@
-package Tests;
+package TestFiles;
 
 import Actions.LoginPageActions;
 import Base.BaseTest;

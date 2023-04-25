@@ -12,6 +12,15 @@ import java.util.List;
 
 public class CreateOrderPageActions extends BasePage {
 
+
+
+
+    String clientOrderID;
+
+    public String getClientOrderID() {
+        return clientOrderID;
+    }
+
     public CreateOrderPageActions(WebDriver driver) {
         super(driver);
     }
@@ -107,9 +116,9 @@ public class CreateOrderPageActions extends BasePage {
                 click(By.xpath("//input[@type='search' and @role='combobox']"));
                 click(By.xpath("//div[@class='ant-select-item-option-content' and text()='COD']"));
             }
-        if (clientID != null && !clientID.isEmpty() && !clientID.isBlank()) {
-            inputText(CreateOrderPage.clientOrderID, clientID);
-        }
+//        if (clientID != null && !clientID.isEmpty() && !clientID.isBlank()) {
+//            inputText(CreateOrderPage.clientOrderID, clientID);
+//        }
         return this;
     }
 
@@ -136,6 +145,7 @@ public class CreateOrderPageActions extends BasePage {
     }
 
     public CreateOrderPageActions fetchClientOrderID(){
+        clientOrderID  = readText(By.xpath("//*[@id=\"root\"]/section/section/main/div[3]/div/div/div[2]/div/div[1]/div/div/div/p[2]"));
         // Need to think of logic to fetch and return clientOrder ID
         return this;
     }

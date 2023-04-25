@@ -1,11 +1,10 @@
-package Tests;
+package TestFiles;
 
 import Actions.SignUpPageActions;
 import Base.BaseTest;
 import Common.CommonTexts;
 import Utils.TestUtils;
 import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
