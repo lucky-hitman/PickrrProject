@@ -1,4 +1,4 @@
-package Payloads;
+package HttpRequests;
 
 public class LoginAPIRequest {
 

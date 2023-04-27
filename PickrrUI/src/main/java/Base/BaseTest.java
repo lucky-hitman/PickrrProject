@@ -1,6 +1,5 @@
 package Base;
 
-import Listeners.ExtentReporterNG;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -20,6 +19,10 @@ import org.testng.ITestResult;
 import org.testng.annotations.*;
 
 import java.lang.reflect.Method;
+
+import Listeners.ExtentReporterNG;
+
+
 public class BaseTest {
 
     Properties properties;
@@ -34,7 +37,6 @@ public class BaseTest {
             properties = new Properties();
             FileInputStream fileInputStream = new FileInputStream("src/main/resources/BaseProperties.properties");
             properties.load(fileInputStream);
-            System.out.println("Reacjhed Here JII");
         } catch (IOException e) {
             e.printStackTrace();
         }

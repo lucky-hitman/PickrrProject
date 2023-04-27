@@ -1,4 +1,4 @@
-package Payloads;
+package HttpResponse;
 
 public class LoginAPIResponse {
 

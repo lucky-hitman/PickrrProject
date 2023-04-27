@@ -9,8 +9,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="PickrrUI" />
         <module name="PickrrAPI" />
-        <module name="Common" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Common" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
