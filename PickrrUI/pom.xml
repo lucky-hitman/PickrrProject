@@ -10,7 +10,6 @@
     </parent>
 
     <artifactId>PickrrUI</artifactId>
-<!--    <packaging>jar</packaging>-->
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
@@ -24,34 +23,11 @@
             <scope>test</scope>
         </dependency>
 
-<!--        <dependency>-->
+        <!--        <dependency>-->
 <!--            <groupId>org.example</groupId>-->
 <!--            <artifactId>Common</artifactId>-->
 <!--            <version>1.0-SNAPSHOT</version>-->
 <!--            <scope>compile</scope>-->
 <!--        </dependency>-->
     </dependencies>
-<!--    <build>-->
-<!--        <plugins>-->
-<!--            <plugin>-->
-<!--                <groupId>org.apache.maven.plugins</groupId>-->
-<!--                <artifactId>maven-surefire-plugin</artifactId>-->
-<!--                <version>3.0.0</version>-->
-<!--                <inherited>true</inherited>-->
-<!--                <executions>-->
-<!--                    <execution>-->
-<!--                        <phase>test</phase>-->
-<!--                        <goals>-->
-<!--                            <goal>test</goal>-->
-<!--                        </goals>-->
-<!--                    </execution>-->
-<!--                </executions>-->
-<!--                <configuration>-->
-<!--                    <suiteXmlFiles>-->
-<!--                        <suiteXmlFile>testng.xml</suiteXmlFile>-->
-<!--                    </suiteXmlFiles>-->
-<!--                </configuration>-->
-<!--            </plugin>-->
-<!--        </plugins>-->
-<!--    </build>-->
 </project>

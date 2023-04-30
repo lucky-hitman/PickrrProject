@@ -74,6 +74,7 @@ public class BaseTest {
             default:
                 ChromeOptions options = new ChromeOptions();
                 WebDriverManager.chromedriver().setup();
+                options.addArguments("--remote-allow-origins=*");
                 options.addArguments("--disable-notifications");
                 driver = new ChromeDriver(options);
                 driver.manage().window().maximize();

@@ -30,7 +30,7 @@ public class SheetsQuickstart {
      */
     private static final List<String> SCOPES =
             Collections.singletonList(SheetsScopes.SPREADSHEETS_READONLY);
-    private static final String CREDENTIALS_FILE_PATH = "src/main/resources/credentials.json";
+    private static final String CREDENTIALS_FILE_PATH = "PickrrUI/src/main/resources/credentials.json";
 
     /**
      * Creates an authorized Credential object.

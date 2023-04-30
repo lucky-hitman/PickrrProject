@@ -1,5 +1,6 @@
 package Pages;
 
+import Utils.Log;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -10,7 +11,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 
-public class BasePage {
+public class BasePage extends Utils.Log {
     public WebDriver driver;
     public WebDriverWait wait;
 
