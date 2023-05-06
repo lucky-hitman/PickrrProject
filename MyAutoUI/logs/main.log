@@ -1,0 +1,337 @@
+2023-05-02 00:49:22,422 +0530 [main] INFO  (ConnectToGoogleSheets.java:95) - Google workbook initialized
+2023-05-02 00:51:57,262 +0530 [main] INFO  (ConnectToGoogleSheets.java:95) - Google workbook initialized
+2023-05-02 00:52:34,024 +0530 [main] INFO  (ConnectToGoogleSheets.java:95) - Google workbook initialized
+2023-05-02 00:52:36,296 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.pickrr.com/ in browser
+2023-05-02 00:52:37,010 +0530 [main] INFO  (LoginPageActions.java:23) - Clicking Login Tab to land Pickrr's Login Page
+2023-05-02 00:52:37,063 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //a[@href='https://dashboard.pickrr.com/sign-in']/parent::li[@class='blueBtn nav-item desktop-only-cust']
+2023-05-02 00:52:37,064 +0530 [main] INFO  (LoginPageActions.java:25) - Trying to login Pickrr dashboard via.
+2023-05-02 00:52:38,504 +0530 [main] INFO  (BasePage.java:51) - Filled text :: lokesh.gahlawat@pickrr.com in By.id: email
+2023-05-02 00:52:38,551 +0530 [main] INFO  (BasePage.java:51) - Filled text :: kuchbhi in By.id: password
+2023-05-02 00:52:38,592 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //button[@type='submit']
+2023-05-02 00:52:50,120 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.pickrr.com/ in browser
+2023-05-02 00:52:50,783 +0530 [main] INFO  (LoginPageActions.java:23) - Clicking Login Tab to land Pickrr's Login Page
+2023-05-02 00:52:50,828 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //a[@href='https://dashboard.pickrr.com/sign-in']/parent::li[@class='blueBtn nav-item desktop-only-cust']
+2023-05-02 00:52:50,829 +0530 [main] INFO  (LoginPageActions.java:25) - Trying to login Pickrr dashboard via.
+2023-05-02 00:52:51,912 +0530 [main] INFO  (BasePage.java:51) - Filled text :: g.mangla911@gmail.com in By.id: email
+2023-05-02 00:52:51,959 +0530 [main] INFO  (BasePage.java:51) - Filled text :: complex@1357 in By.id: password
+2023-05-02 00:52:51,994 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //button[@type='submit']
+2023-05-02 10:33:22,075 +0530 [main] INFO  (ConnectToGoogleSheets.java:95) - Google workbook initialized
+2023-05-02 10:33:25,873 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.pickrr.com/ in browser
+2023-05-02 10:33:26,456 +0530 [main] INFO  (LoginPageActions.java:23) - Clicking Login Tab to land Pickrr's Login Page
+2023-05-02 10:33:26,512 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //a[@href='https://dashboard.pickrr.com/sign-in']/parent::li[@class='blueBtn nav-item desktop-only-cust']
+2023-05-02 10:33:26,512 +0530 [main] INFO  (LoginPageActions.java:25) - Trying to login Pickrr dashboard via.
+2023-05-02 10:33:27,501 +0530 [main] INFO  (BasePage.java:51) - Filled text :: lokesh.gahlawat@pickrr.com in By.id: email
+2023-05-02 10:33:27,565 +0530 [main] INFO  (BasePage.java:51) - Filled text :: kuchbhi in By.id: password
+2023-05-02 10:33:27,613 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //button[@type='submit']
+2023-05-02 10:33:39,251 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.pickrr.com/ in browser
+2023-05-02 10:33:39,851 +0530 [main] INFO  (LoginPageActions.java:23) - Clicking Login Tab to land Pickrr's Login Page
+2023-05-02 10:33:39,896 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //a[@href='https://dashboard.pickrr.com/sign-in']/parent::li[@class='blueBtn nav-item desktop-only-cust']
+2023-05-02 10:33:39,896 +0530 [main] INFO  (LoginPageActions.java:25) - Trying to login Pickrr dashboard via.
+2023-05-02 10:33:40,912 +0530 [main] INFO  (BasePage.java:51) - Filled text :: g.mangla911@gmail.com in By.id: email
+2023-05-02 10:33:40,962 +0530 [main] INFO  (BasePage.java:51) - Filled text :: complex@1357 in By.id: password
+2023-05-02 10:33:40,998 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //button[@type='submit']
+2023-05-02 14:27:08,579 +0530 [main] INFO  (ConnectToGoogleSheets.java:95) - Google workbook initialized
+2023-05-02 14:27:11,804 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.pickrr.com/ in browser
+2023-05-02 14:27:12,440 +0530 [main] INFO  (LoginPageActions.java:23) - Clicking Login Tab to land Pickrr's Login Page
+2023-05-02 14:27:12,493 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //a[@href='https://dashboard.pickrr.com/sign-in']/parent::li[@class='blueBtn nav-item desktop-only-cust']
+2023-05-02 14:27:12,493 +0530 [main] INFO  (LoginPageActions.java:25) - Trying to login Pickrr dashboard via.
+2023-05-02 14:27:13,952 +0530 [main] INFO  (BasePage.java:51) - Filled text :: lokesh.gahlawat@pickrr.com in By.id: email
+2023-05-02 14:27:14,000 +0530 [main] INFO  (BasePage.java:51) - Filled text :: kuchbhi in By.id: password
+2023-05-02 14:27:14,039 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //button[@type='submit']
+2023-05-02 14:27:25,613 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.pickrr.com/ in browser
+2023-05-02 14:27:26,299 +0530 [main] INFO  (LoginPageActions.java:23) - Clicking Login Tab to land Pickrr's Login Page
+2023-05-02 14:27:26,343 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //a[@href='https://dashboard.pickrr.com/sign-in']/parent::li[@class='blueBtn nav-item desktop-only-cust']
+2023-05-02 14:27:26,344 +0530 [main] INFO  (LoginPageActions.java:25) - Trying to login Pickrr dashboard via.
+2023-05-02 14:27:27,467 +0530 [main] INFO  (BasePage.java:51) - Filled text :: g.mangla911@gmail.com in By.id: email
+2023-05-02 14:27:27,517 +0530 [main] INFO  (BasePage.java:51) - Filled text :: complex@1357 in By.id: password
+2023-05-02 14:27:27,553 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //button[@type='submit']
+2023-05-02 14:28:08,701 +0530 [main] INFO  (ConnectToGoogleSheets.java:95) - Google workbook initialized
+2023-05-02 14:28:10,995 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.pickrr.com/ in browser
+2023-05-02 14:28:11,635 +0530 [main] INFO  (LoginPageActions.java:23) - Clicking Login Tab to land Pickrr's Login Page
+2023-05-02 14:28:11,688 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //a[@href='https://dashboard.pickrr.com/sign-in']/parent::li[@class='blueBtn nav-item desktop-only-cust']
+2023-05-02 14:28:11,688 +0530 [main] INFO  (LoginPageActions.java:25) - Trying to login Pickrr dashboard via.
+2023-05-02 14:28:12,869 +0530 [main] INFO  (BasePage.java:51) - Filled text :: lokesh.gahlawat@pickrr.com in By.id: email
+2023-05-02 14:28:12,918 +0530 [main] INFO  (BasePage.java:51) - Filled text :: kuchbhi in By.id: password
+2023-05-02 14:28:12,956 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //button[@type='submit']
+2023-05-02 14:28:24,600 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.pickrr.com/ in browser
+2023-05-02 14:28:25,271 +0530 [main] INFO  (LoginPageActions.java:23) - Clicking Login Tab to land Pickrr's Login Page
+2023-05-02 14:28:25,314 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //a[@href='https://dashboard.pickrr.com/sign-in']/parent::li[@class='blueBtn nav-item desktop-only-cust']
+2023-05-02 14:28:25,314 +0530 [main] INFO  (LoginPageActions.java:25) - Trying to login Pickrr dashboard via.
+2023-05-02 14:28:26,465 +0530 [main] INFO  (BasePage.java:51) - Filled text :: g.mangla911@gmail.com in By.id: email
+2023-05-02 14:28:26,514 +0530 [main] INFO  (BasePage.java:51) - Filled text :: complex@1357 in By.id: password
+2023-05-02 14:28:26,549 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //button[@type='submit']
+2023-05-02 14:33:17,065 +0530 [main] INFO  (ConnectToGoogleSheets.java:95) - Google workbook initialized
+2023-05-02 14:33:19,818 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.pickrr.com/ in browser
+2023-05-02 14:33:20,481 +0530 [main] INFO  (LoginPageActions.java:23) - Clicking Login Tab to land Pickrr's Login Page
+2023-05-02 14:33:20,530 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //a[@href='https://dashboard.pickrr.com/sign-in']/parent::li[@class='blueBtn nav-item desktop-only-cust']
+2023-05-02 14:33:20,530 +0530 [main] INFO  (LoginPageActions.java:25) - Trying to login Pickrr dashboard via.
+2023-05-02 14:33:21,460 +0530 [main] INFO  (BasePage.java:51) - Filled text :: lokesh.gahlawat@pickrr.com in By.id: email
+2023-05-02 14:33:21,512 +0530 [main] INFO  (BasePage.java:51) - Filled text :: kuchbhi in By.id: password
+2023-05-02 14:33:21,551 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //button[@type='submit']
+2023-05-02 14:33:33,159 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.pickrr.com/ in browser
+2023-05-02 14:33:33,855 +0530 [main] INFO  (LoginPageActions.java:23) - Clicking Login Tab to land Pickrr's Login Page
+2023-05-02 14:33:33,900 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //a[@href='https://dashboard.pickrr.com/sign-in']/parent::li[@class='blueBtn nav-item desktop-only-cust']
+2023-05-02 14:33:33,900 +0530 [main] INFO  (LoginPageActions.java:25) - Trying to login Pickrr dashboard via.
+2023-05-02 14:33:35,057 +0530 [main] INFO  (BasePage.java:51) - Filled text :: g.mangla911@gmail.com in By.id: email
+2023-05-02 14:33:35,108 +0530 [main] INFO  (BasePage.java:51) - Filled text :: complex@1357 in By.id: password
+2023-05-02 14:33:35,143 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //button[@type='submit']
+2023-05-03 21:42:21,767 +0530 [main] INFO  (ConnectToGoogleSheets.java:95) - Google workbook initialized
+2023-05-03 21:42:25,934 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.pickrr.com/ in browser
+2023-05-03 21:42:26,637 +0530 [main] INFO  (LoginPageActions.java:23) - Clicking Login Tab to land Pickrr's Login Page
+2023-05-03 21:42:26,703 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //a[@href='https://dashboard.pickrr.com/sign-in']/parent::li[@class='blueBtn nav-item desktop-only-cust']
+2023-05-03 21:42:26,703 +0530 [main] INFO  (LoginPageActions.java:25) - Trying to login Pickrr dashboard via.
+2023-05-03 21:42:27,810 +0530 [main] INFO  (BasePage.java:51) - Filled text :: lokesh.gahlawat@pickrr.com in By.id: email
+2023-05-03 21:42:27,870 +0530 [main] INFO  (BasePage.java:51) - Filled text :: kuchbhi in By.id: password
+2023-05-03 21:42:27,909 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //button[@type='submit']
+2023-05-03 21:42:39,512 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.pickrr.com/ in browser
+2023-05-03 21:42:40,215 +0530 [main] INFO  (LoginPageActions.java:23) - Clicking Login Tab to land Pickrr's Login Page
+2023-05-03 21:42:40,260 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //a[@href='https://dashboard.pickrr.com/sign-in']/parent::li[@class='blueBtn nav-item desktop-only-cust']
+2023-05-03 21:42:40,261 +0530 [main] INFO  (LoginPageActions.java:25) - Trying to login Pickrr dashboard via.
+2023-05-03 21:42:41,414 +0530 [main] INFO  (BasePage.java:51) - Filled text :: g.mangla911@gmail.com in By.id: email
+2023-05-03 21:42:41,483 +0530 [main] INFO  (BasePage.java:51) - Filled text :: complex@1357 in By.id: password
+2023-05-03 21:42:41,528 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //button[@type='submit']
+2023-05-03 21:42:44,521 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.pickrr.com/ in browser
+2023-05-03 21:42:45,349 +0530 [main] INFO  (LoginPageActions.java:23) - Clicking Login Tab to land Pickrr's Login Page
+2023-05-03 21:42:45,396 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //a[@href='https://dashboard.pickrr.com/sign-in']/parent::li[@class='blueBtn nav-item desktop-only-cust']
+2023-05-03 21:42:45,396 +0530 [main] INFO  (LoginPageActions.java:25) - Trying to login Pickrr dashboard via.
+2023-05-03 21:42:46,573 +0530 [main] INFO  (BasePage.java:51) - Filled text :: deep  in By.id: email
+2023-05-03 21:42:46,620 +0530 [main] INFO  (BasePage.java:51) - Filled text :: asdas in By.id: password
+2023-05-03 21:42:46,659 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //button[@type='submit']
+2023-05-03 21:42:58,268 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.pickrr.com/ in browser
+2023-05-03 21:42:58,921 +0530 [main] INFO  (LoginPageActions.java:23) - Clicking Login Tab to land Pickrr's Login Page
+2023-05-03 21:42:58,967 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //a[@href='https://dashboard.pickrr.com/sign-in']/parent::li[@class='blueBtn nav-item desktop-only-cust']
+2023-05-03 21:42:58,968 +0530 [main] INFO  (LoginPageActions.java:25) - Trying to login Pickrr dashboard via.
+2023-05-03 21:43:00,169 +0530 [main] INFO  (BasePage.java:51) - Filled text :: lojksfsdf in By.id: email
+2023-05-03 21:43:00,220 +0530 [main] INFO  (BasePage.java:51) - Filled text :: adslfss in By.id: password
+2023-05-03 21:43:00,256 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //button[@type='submit']
+2023-05-03 21:43:12,024 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.pickrr.com/ in browser
+2023-05-03 21:43:12,883 +0530 [main] INFO  (LoginPageActions.java:23) - Clicking Login Tab to land Pickrr's Login Page
+2023-05-03 21:43:12,935 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //a[@href='https://dashboard.pickrr.com/sign-in']/parent::li[@class='blueBtn nav-item desktop-only-cust']
+2023-05-03 21:43:12,935 +0530 [main] INFO  (LoginPageActions.java:25) - Trying to login Pickrr dashboard via.
+2023-05-03 21:43:15,371 +0530 [main] INFO  (BasePage.java:51) - Filled text :: lkfsldf in By.id: email
+2023-05-03 21:43:15,422 +0530 [main] INFO  (BasePage.java:51) - Filled text :: slkdfhslfg in By.id: password
+2023-05-03 21:43:15,462 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //button[@type='submit']
+2023-05-04 18:17:40,865 +0530 [main] INFO  (HomepageActions.java:40) - Opening url :: https://www.amazon.in/ in browser
+2023-05-04 18:17:55,896 +0530 [main] INFO  (BasePage.java:33) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-04 19:31:51,708 +0530 [main] INFO  (HomepageActions.java:41) - Opening url :: https://www.amazon.in/ in browser
+2023-05-04 19:32:09,171 +0530 [main] INFO  (BasePageActions.java:33) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-04 19:33:31,150 +0530 [main] INFO  (HomepageActions.java:41) - Opening url :: https://www.amazon.in/ in browser
+2023-05-04 19:33:51,429 +0530 [main] INFO  (BasePageActions.java:33) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-04 19:33:54,553 +0530 [main] INFO  (BasePageActions.java:51) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-04 19:33:55,415 +0530 [main] INFO  (BasePageActions.java:33) - Element clicked :: By.id: continue
+2023-05-04 19:33:55,475 +0530 [main] INFO  (BasePageActions.java:51) - Filled text :: Goku@2211 in By.name: password
+2023-05-04 19:33:55,516 +0530 [main] INFO  (BasePageActions.java:33) - Element clicked :: By.id: signInSubmit
+2023-05-04 19:52:40,832 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.amazon.in/ in browser
+2023-05-04 19:52:57,546 +0530 [main] INFO  (BasePageActions.java:33) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-04 19:53:00,677 +0530 [main] INFO  (BasePageActions.java:51) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-04 19:53:01,674 +0530 [main] INFO  (BasePageActions.java:33) - Element clicked :: By.id: continue
+2023-05-04 19:53:01,739 +0530 [main] INFO  (BasePageActions.java:51) - Filled text :: Goku@2211 in By.name: password
+2023-05-04 19:53:01,778 +0530 [main] INFO  (BasePageActions.java:33) - Element clicked :: By.id: signInSubmit
+2023-05-04 19:58:21,666 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.amazon.in/ in browser
+2023-05-04 19:58:38,464 +0530 [main] INFO  (BasePageActions.java:33) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-04 19:58:41,587 +0530 [main] INFO  (BasePageActions.java:51) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-04 19:58:42,537 +0530 [main] INFO  (BasePageActions.java:33) - Element clicked :: By.id: continue
+2023-05-04 19:58:42,598 +0530 [main] INFO  (BasePageActions.java:51) - Filled text :: Goku@2211 in By.name: password
+2023-05-04 19:58:42,639 +0530 [main] INFO  (BasePageActions.java:33) - Element clicked :: By.id: signInSubmit
+2023-05-04 19:58:56,536 +0530 [main] INFO  (BasePageActions.java:60) - Read text from :: By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]
+2023-05-04 20:01:08,948 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.amazon.in/ in browser
+2023-05-04 20:01:24,411 +0530 [main] INFO  (BasePageActions.java:33) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-04 20:01:27,557 +0530 [main] INFO  (BasePageActions.java:51) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-04 20:01:28,383 +0530 [main] INFO  (BasePageActions.java:33) - Element clicked :: By.id: continue
+2023-05-04 20:01:28,447 +0530 [main] INFO  (BasePageActions.java:51) - Filled text :: Goku@2211 in By.name: password
+2023-05-04 20:01:28,491 +0530 [main] INFO  (BasePageActions.java:33) - Element clicked :: By.id: signInSubmit
+2023-05-04 20:01:40,473 +0530 [main] INFO  (BasePageActions.java:60) - Read text from :: By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]
+2023-05-04 20:02:47,722 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.amazon.in/ in browser
+2023-05-04 20:03:07,186 +0530 [main] INFO  (BasePageActions.java:33) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-04 20:03:10,321 +0530 [main] INFO  (BasePageActions.java:51) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-04 20:03:11,227 +0530 [main] INFO  (BasePageActions.java:33) - Element clicked :: By.id: continue
+2023-05-04 20:03:11,270 +0530 [main] INFO  (BasePageActions.java:51) - Filled text :: Goku@2211 in By.name: password
+2023-05-04 20:03:22,988 +0530 [main] INFO  (BasePageActions.java:33) - Element clicked :: By.id: signInSubmit
+2023-05-04 20:03:23,032 +0530 [main] INFO  (BasePageActions.java:60) - Read text from :: By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]
+2023-05-04 20:04:10,704 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.amazon.in/ in browser
+2023-05-04 20:04:26,404 +0530 [main] INFO  (BasePageActions.java:33) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-04 20:04:29,533 +0530 [main] INFO  (BasePageActions.java:51) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-04 20:04:39,623 +0530 [main] INFO  (BasePageActions.java:33) - Element clicked :: By.id: continue
+2023-05-04 20:04:58,231 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.amazon.in/ in browser
+2023-05-04 20:05:14,466 +0530 [main] INFO  (BasePageActions.java:33) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-04 20:05:17,629 +0530 [main] INFO  (BasePageActions.java:51) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-04 20:05:18,503 +0530 [main] INFO  (BasePageActions.java:33) - Element clicked :: By.id: continue
+2023-05-04 20:05:18,560 +0530 [main] INFO  (BasePageActions.java:51) - Filled text :: Goku@2211 in By.name: password
+2023-05-04 20:05:18,602 +0530 [main] INFO  (BasePageActions.java:33) - Element clicked :: By.id: signInSubmit
+2023-05-04 20:05:32,380 +0530 [main] INFO  (BasePageActions.java:60) - Read text from :: By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]
+2023-05-04 20:59:07,313 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.amazon.in/ in browser
+2023-05-04 20:59:26,881 +0530 [main] INFO  (BasePageActions.java:35) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-04 20:59:29,920 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.name: email' Is Present
+2023-05-04 20:59:30,016 +0530 [main] INFO  (BasePageActions.java:56) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-04 20:59:30,899 +0530 [main] INFO  (BasePageActions.java:35) - Element clicked :: By.id: continue
+2023-05-04 20:59:30,929 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.name: password' Is Present
+2023-05-04 20:59:30,955 +0530 [main] INFO  (BasePageActions.java:56) - Filled text :: Goku@2211 in By.name: password
+2023-05-04 20:59:30,993 +0530 [main] INFO  (BasePageActions.java:35) - Element clicked :: By.id: signInSubmit
+2023-05-04 20:59:38,914 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]' Is Present
+2023-05-04 20:59:38,950 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.xpath: //input[@placeholder='Search Amazon.in' and @id='twotabsearchtextbox']' Is Present
+2023-05-04 20:59:41,266 +0530 [main] INFO  (BasePageActions.java:66) - Read text from :: By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]
+2023-05-04 21:12:36,990 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.amazon.in/ in browser
+2023-05-04 21:12:52,202 +0530 [main] INFO  (BasePageActions.java:35) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-04 21:12:55,230 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.name: email' Is Present
+2023-05-04 21:12:55,327 +0530 [main] INFO  (BasePageActions.java:56) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-04 21:12:58,310 +0530 [main] INFO  (BasePageActions.java:35) - Element clicked :: By.id: continue
+2023-05-04 21:12:58,344 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.name: password' Is Present
+2023-05-04 21:12:58,371 +0530 [main] INFO  (BasePageActions.java:56) - Filled text :: Goku@2211 in By.name: password
+2023-05-04 21:12:58,427 +0530 [main] INFO  (BasePageActions.java:35) - Element clicked :: By.id: signInSubmit
+2023-05-04 21:13:06,225 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]' Is Present
+2023-05-04 21:13:06,264 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.xpath: //input[@placeholder='Search Amazon.in' and @id='twotabsearchtextbox']' Is Present
+2023-05-04 21:34:37,963 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.amazon.in/ in browser
+2023-05-04 21:34:49,510 +0530 [main] INFO  (BasePageActions.java:35) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-04 21:34:52,548 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.name: email' Is Present
+2023-05-04 21:34:52,641 +0530 [main] INFO  (BasePageActions.java:56) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-04 21:34:55,394 +0530 [main] INFO  (BasePageActions.java:35) - Element clicked :: By.id: continue
+2023-05-04 21:34:55,436 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.name: password' Is Present
+2023-05-04 21:34:55,463 +0530 [main] INFO  (BasePageActions.java:56) - Filled text :: Goku@2211 in By.name: password
+2023-05-04 21:34:55,510 +0530 [main] INFO  (BasePageActions.java:35) - Element clicked :: By.id: signInSubmit
+2023-05-04 21:35:07,788 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]' Is Present
+2023-05-04 21:35:07,850 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.xpath: //input[@placeholder='Search Amazon.in' and @id='twotabsearchtextbox']' Is Present
+2023-05-04 21:38:53,740 +0530 [main] INFO  (BasePageActions.java:66) - Read text from :: By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]
+2023-05-05 00:05:56,391 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.amazon.in/ in browser
+2023-05-05 00:05:58,464 +0530 [main] INFO  (BasePageActions.java:35) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-05 00:06:01,491 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.name: email' Is Present
+2023-05-05 00:06:01,587 +0530 [main] INFO  (BasePageActions.java:56) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-05 00:06:02,373 +0530 [main] INFO  (BasePageActions.java:35) - Element clicked :: By.id: continue
+2023-05-05 00:06:02,393 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.name: password' Is Present
+2023-05-05 00:06:02,418 +0530 [main] INFO  (BasePageActions.java:56) - Filled text :: Goku@2211 in By.name: password
+2023-05-05 00:06:02,457 +0530 [main] INFO  (BasePageActions.java:35) - Element clicked :: By.id: signInSubmit
+2023-05-05 00:06:04,505 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]' Is Present
+2023-05-05 00:06:10,495 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.xpath: //input[@placeholder='Search Amazon.in' and @id='twotabsearchtextbox']' Is Present
+2023-05-05 00:06:10,500 +0530 [main] INFO  (BasePageActions.java:66) - Read text from :: By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]
+2023-05-05 00:06:40,471 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.amazon.in/ in browser
+2023-05-05 00:06:42,668 +0530 [main] INFO  (BasePageActions.java:35) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-05 00:06:45,719 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.name: email' Is Present
+2023-05-05 00:06:45,795 +0530 [main] INFO  (BasePageActions.java:56) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-05 00:06:46,581 +0530 [main] INFO  (BasePageActions.java:35) - Element clicked :: By.id: continue
+2023-05-05 00:06:46,607 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.name: password' Is Present
+2023-05-05 00:06:46,634 +0530 [main] INFO  (BasePageActions.java:56) - Filled text :: Goku@2211 in By.name: password
+2023-05-05 00:06:46,672 +0530 [main] INFO  (BasePageActions.java:35) - Element clicked :: By.id: signInSubmit
+2023-05-05 00:06:48,289 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]' Is Present
+2023-05-05 00:06:54,304 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.xpath: //input[@placeholder='Search Amazon.in' and @id='twotabsearchtextbox']' Is Present
+2023-05-05 00:06:54,309 +0530 [main] INFO  (BasePageActions.java:66) - Read text from :: By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]
+2023-05-05 00:07:48,306 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.amazon.in/ in browser
+2023-05-05 00:07:50,532 +0530 [main] INFO  (BasePageActions.java:35) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-05 00:07:53,587 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.name: email' Is Present
+2023-05-05 00:07:53,686 +0530 [main] INFO  (BasePageActions.java:56) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-05 00:07:54,480 +0530 [main] INFO  (BasePageActions.java:35) - Element clicked :: By.id: continue
+2023-05-05 00:07:54,500 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.name: password' Is Present
+2023-05-05 00:07:54,527 +0530 [main] INFO  (BasePageActions.java:56) - Filled text :: Goku@2211 in By.name: password
+2023-05-05 00:07:54,570 +0530 [main] INFO  (BasePageActions.java:35) - Element clicked :: By.id: signInSubmit
+2023-05-05 00:07:56,131 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]' Is Present
+2023-05-05 00:08:01,972 +0530 [main] INFO  (BasePageActions.java:117) - Element :: 'By.xpath: //input[@placeholder='Search Amazon.in' and @id='twotabsearchtextbox']' Is Present
+2023-05-05 00:08:01,976 +0530 [main] INFO  (BasePageActions.java:66) - Read text from :: By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]
+2023-05-05 00:18:00,767 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.amazon.in/ in browser
+2023-05-05 00:18:02,963 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-05 00:18:06,023 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.name: email' Is Present
+2023-05-05 00:18:06,116 +0530 [main] INFO  (BasePageActions.java:61) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-05 00:18:07,216 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.id: continue
+2023-05-05 00:18:07,245 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.name: password' Is Present
+2023-05-05 00:18:07,270 +0530 [main] INFO  (BasePageActions.java:61) - Filled text :: Goku@2211 in By.name: password
+2023-05-05 00:18:07,311 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.id: signInSubmit
+2023-05-05 00:18:08,975 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]' Is Present
+2023-05-05 00:18:14,990 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //input[@placeholder='Search Amazon.in' and @id='twotabsearchtextbox']' Is Present
+2023-05-05 00:18:14,994 +0530 [main] INFO  (BasePageActions.java:71) - Read text from :: By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]
+2023-05-05 00:19:06,596 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.amazon.in/ in browser
+2023-05-05 00:19:08,798 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-05 00:19:11,828 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.name: email' Is Present
+2023-05-05 00:19:11,923 +0530 [main] INFO  (BasePageActions.java:61) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-05 00:19:12,591 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.id: continue
+2023-05-05 00:19:12,609 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.name: password' Is Present
+2023-05-05 00:19:12,636 +0530 [main] INFO  (BasePageActions.java:61) - Filled text :: Goku@2211 in By.name: password
+2023-05-05 00:19:12,674 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.id: signInSubmit
+2023-05-05 00:19:14,417 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]' Is Present
+2023-05-05 00:19:15,237 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //input[@placeholder='Search Amazon.in' and @id='twotabsearchtextbox']' Is Present
+2023-05-05 00:19:15,240 +0530 [main] INFO  (BasePageActions.java:71) - Read text from :: By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]
+2023-05-05 00:25:04,643 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.amazon.in/ in browser
+2023-05-05 00:25:07,004 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-05 00:25:10,062 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.name: email' Is Present
+2023-05-05 00:25:10,161 +0530 [main] INFO  (BasePageActions.java:61) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-05 00:25:10,980 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.id: continue
+2023-05-05 00:25:11,008 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.name: password' Is Present
+2023-05-05 00:25:11,035 +0530 [main] INFO  (BasePageActions.java:61) - Filled text :: Goku@2211 in By.name: password
+2023-05-05 00:25:11,076 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.id: signInSubmit
+2023-05-05 00:25:12,775 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]' Is Present
+2023-05-05 00:25:16,528 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //input[@placeholder='Search Amazon.in' and @id='twotabsearchtextbox']' Is Present
+2023-05-05 00:25:16,532 +0530 [main] INFO  (BasePageActions.java:71) - Read text from :: By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]
+2023-05-05 00:27:42,349 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.amazon.in/ in browser
+2023-05-05 00:27:44,807 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-05 00:27:47,858 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.name: email' Is Present
+2023-05-05 00:27:47,952 +0530 [main] INFO  (BasePageActions.java:61) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-05 00:27:48,770 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.id: continue
+2023-05-05 00:27:48,797 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.name: password' Is Present
+2023-05-05 00:27:48,824 +0530 [main] INFO  (BasePageActions.java:61) - Filled text :: Goku@2211 in By.name: password
+2023-05-05 00:27:48,864 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.id: signInSubmit
+2023-05-05 00:27:50,504 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]' Is Present
+2023-05-05 00:27:58,237 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.id: add-to-cart-button' Is Present
+2023-05-05 00:27:58,237 +0530 [main] INFO  (BasePageActions.java:71) - Read text from :: By.id: productTitle
+2023-05-05 00:27:58,858 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //input[@placeholder='Search Amazon.in' and @id='twotabsearchtextbox']' Is Present
+2023-05-05 00:27:58,862 +0530 [main] INFO  (BasePageActions.java:71) - Read text from :: By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]
+2023-05-05 00:47:32,356 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.amazon.in/ in browser
+2023-05-05 00:47:34,956 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-05 00:47:38,007 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.name: email' Is Present
+2023-05-05 00:47:38,105 +0530 [main] INFO  (BasePageActions.java:61) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-05 00:47:38,725 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.id: continue
+2023-05-05 00:47:38,756 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.name: password' Is Present
+2023-05-05 00:47:38,782 +0530 [main] INFO  (BasePageActions.java:61) - Filled text :: Goku@2211 in By.name: password
+2023-05-05 00:47:38,820 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.id: signInSubmit
+2023-05-05 00:47:40,603 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]' Is Present
+2023-05-05 00:47:40,656 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //span[@class='a-list-item']/a/div/div/img' Is Present
+2023-05-05 00:47:42,499 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //input[@placeholder='Search Amazon.in' and @id='twotabsearchtextbox']' Is Present
+2023-05-05 00:47:42,503 +0530 [main] INFO  (BasePageActions.java:71) - Read text from :: By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]
+2023-05-05 00:48:20,754 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.amazon.in/ in browser
+2023-05-05 00:48:22,695 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-05 00:48:25,746 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.name: email' Is Present
+2023-05-05 00:48:25,844 +0530 [main] INFO  (BasePageActions.java:61) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-05 00:48:26,653 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.id: continue
+2023-05-05 00:48:26,681 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.name: password' Is Present
+2023-05-05 00:48:26,707 +0530 [main] INFO  (BasePageActions.java:61) - Filled text :: Goku@2211 in By.name: password
+2023-05-05 00:48:26,748 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.id: signInSubmit
+2023-05-05 00:48:28,290 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]' Is Present
+2023-05-05 00:48:28,343 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //span[@class='a-list-item']/a/div/div/img' Is Present
+2023-05-05 00:48:30,253 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //input[@placeholder='Search Amazon.in' and @id='twotabsearchtextbox']' Is Present
+2023-05-05 00:48:30,257 +0530 [main] INFO  (BasePageActions.java:71) - Read text from :: By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]
+2023-05-05 00:51:30,075 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.amazon.in/ in browser
+2023-05-05 00:51:32,280 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-05 00:51:35,331 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.name: email' Is Present
+2023-05-05 00:51:35,432 +0530 [main] INFO  (BasePageActions.java:61) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-05 00:51:36,238 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.id: continue
+2023-05-05 00:51:36,267 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.name: password' Is Present
+2023-05-05 00:51:36,294 +0530 [main] INFO  (BasePageActions.java:61) - Filled text :: Goku@2211 in By.name: password
+2023-05-05 00:51:36,335 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.id: signInSubmit
+2023-05-05 00:51:37,948 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]' Is Present
+2023-05-05 00:51:38,007 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //span[@class='a-list-item']/a' Is Present
+2023-05-05 00:51:42,134 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.xpath: //span[@class='a-list-item']/a
+2023-05-05 00:51:42,177 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.id: add-to-cart-button' Is Present
+2023-05-05 00:51:42,213 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //input[@placeholder='Search Amazon.in' and @id='twotabsearchtextbox']' Is Present
+2023-05-05 00:51:42,216 +0530 [main] INFO  (BasePageActions.java:71) - Read text from :: By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]
+2023-05-05 17:50:03,707 +0530 [main] INFO  (ConnectToGoogleSheets.java:95) - Google workbook initialized
+2023-05-06 00:49:14,310 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.amazon.in/ in browser
+2023-05-06 00:49:37,231 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-06 00:49:40,259 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.name: email' Is Present
+2023-05-06 00:49:40,388 +0530 [main] INFO  (BasePageActions.java:61) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-06 00:49:46,502 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.id: continue
+2023-05-06 00:49:46,539 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.name: password' Is Present
+2023-05-06 00:49:46,567 +0530 [main] INFO  (BasePageActions.java:61) - Filled text :: Ginu@2211 in By.name: password
+2023-05-06 00:49:46,606 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.id: signInSubmit
+2023-05-06 00:49:57,014 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]' Is Present
+2023-05-06 00:49:57,064 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //span[@class='a-list-item']/a' Is Present
+2023-05-06 00:49:59,920 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.xpath: //span[@class='a-list-item']/a
+2023-05-06 00:50:10,501 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //input[@placeholder='Search Amazon.in' and @id='twotabsearchtextbox']' Is Present
+2023-05-06 00:50:10,505 +0530 [main] INFO  (BasePageActions.java:71) - Read text from :: By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]
+2023-05-06 01:02:52,458 +0530 [main] INFO  (LoginPageActions.java:50) - Opening url :: https://www.amazon.in/ in browser
+2023-05-06 01:03:09,222 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.xpath: //span[text()='Sign in' and @class ='nav-action-inner']
+2023-05-06 01:03:12,308 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.name: email' Is Present
+2023-05-06 01:03:12,404 +0530 [main] INFO  (BasePageActions.java:61) - Filled text :: lokesh.gahlawat2010@gmail.com in By.name: email
+2023-05-06 01:03:16,531 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.id: continue
+2023-05-06 01:03:16,564 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.name: password' Is Present
+2023-05-06 01:03:16,590 +0530 [main] INFO  (BasePageActions.java:61) - Filled text :: Ginu@2211 in By.name: password
+2023-05-06 01:03:16,640 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.id: signInSubmit
+2023-05-06 01:03:26,865 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]' Is Present
+2023-05-06 01:03:26,910 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //span[@class='a-list-item']/a' Is Present
+2023-05-06 01:03:28,396 +0530 [main] INFO  (BasePageActions.java:40) - Element clicked :: By.xpath: //span[@class='a-list-item']/a
+2023-05-06 01:03:39,365 +0530 [main] INFO  (BasePageActions.java:122) - Element :: 'By.xpath: //input[@placeholder='Search Amazon.in' and @id='twotabsearchtextbox']' Is Present
+2023-05-06 01:03:39,371 +0530 [main] INFO  (BasePageActions.java:71) - Read text from :: By.xpath: //span[@id='nav-link-accountList-nav-line-1' and contains(text(),'Hello, ')]

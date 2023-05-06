@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Suite" >
+    <listeners>
+        <listener class-name="listeners.ExecutionListener"/>
+
+    </listeners>
+    <test name="Automation" preserve-order="true" parallel="none">
+        <classes>
+<!--            <class name="TestFiles.SignUpPageTests"/>-->
+            <class name="TestFiles.LoginPageTests"/>
+<!--            <class name="TestFiles.HomePageTests"/>-->
+<!--            <class name="TestFiles.CreateOrderPageTests"/>-->
+        </classes>
+    </test>
+</suite>
